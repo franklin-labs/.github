@@ -26,148 +26,34 @@ I create projects that push the boundaries of AI, combining research, practical 
 
 
 
-\## 🚀 What You’ll Find Here
+# Franklin — Data Science & IA
 
+Bonjour, je m'appelle Franklin. Je suis étudiant en Master 1 Data Science et Intelligence Artificielle à Paris. Je conçois et développe des solutions d'IA appliquées, avec un intérêt particulier pour les agents autonomes, le traitement du langage naturel et les pipelines de production.
 
+## À propos de moi
 
-This repository hosts resources and templates for:
+- Formation : Master 1 Data Science & IA — Paris
+- Domaines : agents intelligents, apprentissage automatique, NLP, ingénierie des données
+- Compétences : Python, PyTorch, scikit-learn, pipelines ML, conception d'architectures IA
 
+## Centres d'intérêt
 
+- Recherche appliquée en IA et prototypes rapides
+- Automatisation par agents et intégration d'APIs
+- Visualisation de données et analyses exploratoires
 
-\- \*\*AI Agents\*\* – autonomous software capable of performing tasks, learning, and interacting with APIs and tools.
+## Expérience et approche
 
-\- \*\*Experimental Projects\*\* – prototypes and research-oriented projects to test ideas rapidly.
+Je combine rigueur académique et prototypage rapide pour transformer des idées en démonstrateurs fonctionnels. J'aime documenter les choix techniques, évaluer les performances et itérer rapidement en utilisant des outils modernes de développement et déploiement.
 
-\- \*\*Open-Source Tools\*\* – select projects available for the community to explore, contribute to, and improve.
+## Contact
 
-\- \*\*Private/Professional Projects\*\* – some projects are proprietary, aimed at professional or commercial use.
-
-
-
-Each project includes:
-
-
-
-\- Documentation and quick-start guides
-
-\- Examples of implementation
-
-\- Notes on research, algorithms, and architecture
-
-
+- GitHub : https://github.com/franklin-labs
+- Email / LinkedIn : [Contact me](https://www.linkedin.com/in/franklin-delbo-09b8b1314/)
 
 ---
 
+Franklin — passionné par l'IA pratique et l'innovation.
 
-
-\## 🌟 Why Follow or Collaborate
-
-
-
-I’m passionate about \*\*AI innovation\*\* and always looking to \*\*collaborate with students, researchers, and developers\*\* who want to explore intelligent systems, automation, and next-gen AI tools.  
-
-
-
-Whether you’re:
-
-
-
-\- Interested in \*\*contributing to open-source AI agents\*\*
-
-\- Looking to \*\*partner on experimental projects\*\*
-
-\- Seeking \*\*guidance or mentorship in AI development\*\*
-
-
-
-…there’s a space for collaboration here.
-
-
-
----
-
-
-
-\## 🛠 Technologies \& Tools
-
-
-
-My work leverages:
-
-
-
-\- \*\*Machine Learning \& Deep Learning:\*\* PyTorch, TensorFlow, scikit-learn
-
-\- \*\*AI Agents \& Automation:\*\* LangChain, OpenAI APIs, custom AI pipelines
-
-\- \*\*Data Science \& Analytics:\*\* pandas, NumPy, Matplotlib, Seaborn
-
-\- \*\*Development \& Deployment:\*\* Python, FastAPI, Docker, Git/GitHub
-
-
-
----
-
-
-
-
-
-> Note: Some projects may be private or paid; open-source projects are clearly marked.
-
-
-
----
-
-
-
-\## 🤝 Collaboration
-
-
-
-I am \*\*open to collaborations\*\* on AI, data science, and research projects.  
-
-If you have a project idea, an interesting dataset, or want to build intelligent agents together, reach out via \*\*GitHub Discussions\*\* or open an \*\*issue\*\*.
-
-
-
----
-
-
-
-\## 📈 GitHub Features \& Automations
-
-
-
-This repository is also designed to leverage GitHub’s automation features:
-
-
-
-\- \*\*GitHub Actions\*\* – automated tests, deployments, and experiment logging
-
-\- \*\*Templates \& Workflows\*\* – speed up creation of new AI agent projects
-
-\- \*\*Discussions \& Issues\*\* – collaborate, ask questions, and share ideas
-
-
-
----
-
-
-
-\## 📬 Contact
-
-
-
-\- GitHub: \[@franklin-labs](https://github.com/franklin-labs)  
-
-\- Open for collaboration, mentoring, and joint AI experiments  
-
-
-
----
-
-
-
-> \*\*Franklin Labs\*\* – Exploring AI, one agent at a time.
-
+# .github
 # .github
