@@ -1,8 +1,4 @@
-
-
-
-
-# Franklin — Data Science & IA
+# Franklin -> Data Science & IA
 
 Bonjour, je m'appelle Franklin. Je suis étudiant en Master 1 Data Science et Intelligence Artificielle à Paris. Je conçois et développe des solutions d'IA appliquées, avec un intérêt particulier pour les agents autonomes, le traitement du langage naturel et les pipelines de production.
 
@@ -29,7 +25,4 @@ Je combine rigueur académique et prototypage rapide pour transformer des idées
 
 ---
 
-Franklin — passionné par l'IA pratique et l'innovation.
-
-# .github
-# .github
+Franklin passionné par l'IA pratique et l'innovation.
