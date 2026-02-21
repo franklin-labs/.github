@@ -2,7 +2,6 @@
 
 Bonjour, je m'appelle Franklin. Je suis en Master 1 Data Science et Intelligence Artificielle à Paris. Je conçois des solutions d'IA pour des besoins concrets, en privilégiant le prototypage rapide et l'itération.
 
-Compétences: Python, PyTorch, scikit-learn, conception de pipelines ML et déploiement.
 
 Centres d'intérêt: agents autonomes, traitement du langage naturel, automatisation et visualisation de données.
 
