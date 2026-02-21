@@ -1,28 +1,4 @@
-\# Franklin Labs – AI Agents \& Experimental Projects
 
-
-
-Welcome to \*\*Franklin Labs\*\*, a dedicated space for exploring, experimenting, and building \*\*intelligent AI agents\*\* and related data science projects. This repository serves as the central hub for all my initiatives, whether open-source experiments or private/professional projects.
-
-
-
----
-
-
-
-\## 👤 About Me
-
-
-
-Hi! I’m \*\*Franklin\*\*, currently pursuing \*\*Master 1 in Data Science \& Artificial Intelligence\*\* in Paris. I specialize in \*\*designing intelligent agents, machine learning, and applied AI systems\*\*.  
-
-
-
-I create projects that push the boundaries of AI, combining research, practical applications, and rapid prototyping.
-
-
-
----
 
 
 
