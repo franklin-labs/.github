@@ -1,28 +1,16 @@
-# Franklin -> Data Science & IA
+# Franklin — Data Science et IA
 
-Bonjour, je m'appelle Franklin. Je suis étudiant en Master 1 Data Science et Intelligence Artificielle à Paris. Je conçois et développe des solutions d'IA appliquées, avec un intérêt particulier pour les agents autonomes, le traitement du langage naturel et les pipelines de production.
+Bonjour, je m'appelle Franklin. Je suis en Master 1 Data Science et Intelligence Artificielle à Paris. Je conçois des solutions d'IA pour des besoins concrets, en privilégiant le prototypage rapide et l'itération.
 
-## À propos de moi
+Compétences: Python, PyTorch, scikit-learn, conception de pipelines ML et déploiement.
 
-- Formation : Master 1 Data Science & IA — Paris
-- Domaines : agents intelligents, apprentissage automatique, NLP, ingénierie des données
-- Compétences : Python, PyTorch, scikit-learn, pipelines ML, conception d'architectures IA
+Centres d'intérêt: agents autonomes, traitement du langage naturel, automatisation et visualisation de données.
 
-## Centres d'intérêt
-
-- Recherche appliquée en IA et prototypes rapides
-- Automatisation par agents et intégration d'APIs
-- Visualisation de données et analyses exploratoires
-
-## Expérience et approche
-
-Je combine rigueur académique et prototypage rapide pour transformer des idées en démonstrateurs fonctionnels. J'aime documenter les choix techniques, évaluer les performances et itérer rapidement en utilisant des outils modernes de développement et déploiement.
+Approche: j'allie rigueur et expérimentation pour transformer des idées en démonstrateurs fonctionnels, puis améliorer les modèles selon les résultats.
 
 ## Contact
 
-- GitHub : https://github.com/franklin-labs
-- Email / LinkedIn : [Contact me](https://www.linkedin.com/in/franklin-delbo-09b8b1314/)
+[![GitHub](https://img.shields.io/badge/GitHub-franklin--labs-black?logo=github)](https://github.com/franklin-labs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-franklin--delbo-blue?logo=linkedin)](https://www.linkedin.com/in/franklin-delbo-09b8b1314/)
 
----
-
-Franklin passionné par l'IA pratique et l'innovation.
+Franklin
