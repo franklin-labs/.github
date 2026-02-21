@@ -1,4 +1,4 @@
-# Franklin — Data Science et IA
+# Franklin En Master Data Science et IA
 
 Bonjour, je m'appelle Franklin. Je suis en Master 1 Data Science et Intelligence Artificielle à Paris. Je conçois des solutions d'IA pour des besoins concrets, en privilégiant le prototypage rapide et l'itération.
 
