@@ -12,4 +12,4 @@ Approche: j'allie rigueur et expérimentation pour transformer des idées en dé
 [![GitHub](https://img.shields.io/badge/GitHub-franklin--labs-black?logo=github)](https://github.com/franklin-labs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franklin--delbo-blue?logo=linkedin)](https://www.linkedin.com/in/franklin-delbo-09b8b1314/)
 
-Franklin
+
